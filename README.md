@@ -23,7 +23,7 @@ Checkout abc-loyalty-store to your local and use following approach to run the a
 - Running the frontend application
 
 `$ npm install` \
-`$ npm run`
+`$ npm start`
 
 ## API Reference
 Swagger UI has been integrated with the backend application and refer `http://localhost:8080/swagger-ui/` for API Reference 
